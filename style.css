@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+input,
+select {
+  width: 250px;
+  height: 30px;
+  border: 1px solid red;
+}
+
+select {
+  width: 100px;
+  margin-left: 10px;
+  letter-spacing: 2px;
+}
+
+span {
+  color: red;
+  font-size: 2em;
+  font-weight: 900;
+}
